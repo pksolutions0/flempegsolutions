@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PK Solutions</title>
+  <title>Flempeg Solutions</title>
   <meta name="description" content="Digital marketing solutions" />
   <meta name="keywords" content="HTML, CSS, JavaScript" />
   <meta name="author" content="Satyam Mishra ,Vaibhav Tiwari" />
@@ -42,7 +42,7 @@
       <!-- ------------------------ -->
       <div class="logo-container flex">
         <a href="#">
-          <p class="flex"><span>PK</span> Solutions</p>
+          <p class="flex"><span>FL</span>EMPEG</p>
         </a>
       </div>
       <div class="menu-list-div">
@@ -374,7 +374,7 @@
       </a>
     </div>
     <div class="footer-strip">
-      Copyright © 2022, PK Solutions - All Rights Reserved.
+      Copyright © 2022, Flempeg Solutions - All Rights Reserved.
     </div>
     <div class="footer-strip">
       <a href="tel:+919871573232">

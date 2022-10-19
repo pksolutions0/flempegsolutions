@@ -5,13 +5,13 @@
   background-color: #080f20;
 }
 .section_title p {
-  color: #ff007b;
+  color: #ff5765;
   /* position: relative; */
 }
 /* .section_title p::after {
   position: absolute;
   content: "";
-  background-color: #ff007b;
+  background-color: #ff5765;
   width: 100px;
   height: 1px;
   top: -10px;
@@ -59,7 +59,7 @@
 }
 .box .icon {
   font-size: 40px;
-  color: #ff007b !important;
+  color: #ff5765 !important;
 }
 .box .icon i {
   font-size: 40px;

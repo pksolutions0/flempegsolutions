@@ -23,10 +23,13 @@ html {
   --white: #fff;
   --white-light: #ffffffcc;
   --border-radius: 15px;
-  --background-color: #080f20;
-  --primary-blue: #007aff;
+  /* --background-color: #080f20; */
+  --background-color: #341948;
+  /* --primary-blue: #007aff; */
+  --primary-blue: #ff5765;
   --primary-violet: #4e15ed;
-  --primary-pink: #ff007b;
+  /* --primary-pink: #ff007b; */
+  --primary-pink: #f48126;
   --gray: #ccc;
   --light-background-white: #f7f7fb;
   --text-color: #1b2d42;
