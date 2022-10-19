@@ -2,7 +2,7 @@
 
 /* services */
 .services {
-  background-color: #080f20;
+  background-color: vaR(--background-color);
 }
 .section_title p {
   color: #ff5765;

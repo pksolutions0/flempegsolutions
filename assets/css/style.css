@@ -42,13 +42,10 @@ header {
   font-size: 37px;
 }
 .logo-container > a > P > span {
-  height: 59px;
-  width: 63px;
   padding: 2.5%;
   background-color: vaR(--primary-pink);
   font-size: 37px;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
+  border-radius: 5px;
   font-weight: 700;
   color: vaR(--white);
   margin-right: 10px;

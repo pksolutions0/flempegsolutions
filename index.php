@@ -29,7 +29,7 @@
   <!-- -----Hiring Alert ------ -->
   <!-- ------------------------ -->
   <section class="hiring grid-center">
-    WE ARE HIRING <a href="mailto:info@pksolutions.org"> Mail Us</a>
+    WE ARE HIRING <a href="mailto:info@flempegsolutions.org"> Mail Us</a>
   </section>
 
   <!-- ------------------------ -->
@@ -42,7 +42,7 @@
       <!-- ------------------------ -->
       <div class="logo-container flex">
         <a href="#">
-          <p class="flex"><span>FL</span>EMPEG</p>
+          <p class="flex"><span>FLEMPEG</span></p>
         </a>
       </div>
       <div class="menu-list-div">
@@ -326,7 +326,7 @@
           projects on time.
         </p>
         <button class="basic-button">
-          <a href="mailto:info@pksolutions.org">Get in Touch</a>
+          <a href="mailto:info@flempegsolutions.org">Get in Touch</a>
         </button>
       </div>
       <div class="collaboration-container-left flex-center-bet collaboration-container-right section-padding">
@@ -357,7 +357,7 @@
       </div>
       <div class="sub-footer-grid-right grid-center">
         <button class="basic-button">
-          <a href="mailto:info@pksolutions.org">CONNECT WITH US</a>
+          <a href="mailto:info@flempegsolutions.org">CONNECT WITH US</a>
         </button>
       </div>
     </div>
@@ -369,24 +369,24 @@
 
   <footer class="footer flex-center-bet">
     <div class="footer-logo-container flex">
-      <a href="mailto:info@pksolutions.org">
-        <span>PK</span>
+      <a href="mailto:info@flempegsolutions.org">
+        <span>FL</span>
       </a>
     </div>
     <div class="footer-strip">
       Copyright © 2022, Flempeg Solutions - All Rights Reserved.
     </div>
     <div class="footer-strip">
-      <a href="tel:+919871573232">
+      <a href="mailto:info@flempegsolutions.org">
         <ion-icon name="call-sharp"></ion-icon>
       </a>
-      <a href="mailto:info@pksolutions.org">
+      <a href="mailto:info@flempegsolutions.org">
         <ion-icon name="logo-facebook"></ion-icon>
       </a>
-      <a href="mailto:info@pksolutions.org">
+      <a href="mailto:info@flempegsolutions.org">
         <ion-icon name="logo-instagram"></ion-icon>
       </a>
-      <a href="mailto:info@pksolutions.org">
+      <a href="mailto:info@flempegsolutions.org">
         <ion-icon name="logo-twitter"></ion-icon>
       </a>
     </div>
