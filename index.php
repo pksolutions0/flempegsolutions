@@ -42,7 +42,7 @@
       <!-- ------------------------ -->
       <div class="logo-container flex">
         <a href="#">
-          <p class="flex"><span>FLEMPEG</span></p>
+          <p class="flex"><span>FL</span>Solutions</p>
         </a>
       </div>
       <div class="menu-list-div">
@@ -353,7 +353,7 @@
     <div class="sub-footer-grid grid">
       <div class="sub-footer-grid-left">
         <h2>Let’s talk about your next <span>business challenge</span></h2>
-        <p>Get to meet Your Next Agency</p>
+        <p>Based In Texas, Serving since 2017</p>
       </div>
       <div class="sub-footer-grid-right grid-center">
         <button class="basic-button">
@@ -374,7 +374,7 @@
       </a>
     </div>
     <div class="footer-strip">
-      Copyright © 2022, Flempeg Solutions - All Rights Reserved.
+      Copyright © 2017, Flempeg Solutions - All Rights Reserved.
     </div>
     <div class="footer-strip">
       <a href="mailto:info@flempegsolutions.org">
